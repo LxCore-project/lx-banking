@@ -1,6 +1,15 @@
 fx_version 'cerulean'
-games { 'rdr3', 'gta5' }
+game 'gta5'
 
-author 'Zaps'
-version '1.5.0'
+description 'lx-banking for LxCore'
+author 'LxCore'
+version '0.1'
+
+
+client_script {
+    'client.lua'
+}
+
+lua54 'yes'
+
 
