@@ -6,7 +6,7 @@
 ## Installation
 ### Manual
 - Download the script and put it in the the server.
-- Import `lx-banking.sql` in your database
+- Import `import.sql` in your database
 - Add the following code to your server.cfg/resouces.cfg
 
 ## Configuration
