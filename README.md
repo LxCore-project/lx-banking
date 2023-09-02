@@ -12,7 +12,6 @@
 ## Configuration
 ```
 Config = {}
-Soon
 ```
 
 
